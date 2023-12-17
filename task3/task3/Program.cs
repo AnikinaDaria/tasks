@@ -33,9 +33,9 @@ namespace task3
 
             WriteValue(newTests.tests, values);
             var jsonOut = JsonConvert.SerializeObject(newTests);
-            var pathOut = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "result\\report.json");
+            var pathOut = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "report.json");
             File.WriteAllText(pathOut,jsonOut);
-            Console.WriteLine("Файл сформирован в  " + pathOut);
+            Console.WriteLine("Файл report.json сформирован в  " + pathOut);
             Console.ReadKey();
         }
         public static void WriteValue(List<Test> tests, RootobjectValues values)
