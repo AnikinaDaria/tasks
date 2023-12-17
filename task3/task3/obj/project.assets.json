@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Задание Перфоманс лаб\\задание 3\\task3\\task3\\task3.csproj",
+      "projectUniqueName": "C:\\Users\\dasha\\OneDrive\\Рабочий стол\\задания\\tasks-main\\task3\\task3\\task3.csproj",
       "projectName": "task3",
-      "projectPath": "C:\\Задание Перфоманс лаб\\задание 3\\task3\\task3\\task3.csproj",
+      "projectPath": "C:\\Users\\dasha\\OneDrive\\Рабочий стол\\задания\\tasks-main\\task3\\task3\\task3.csproj",
       "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Задание Перфоманс лаб\\задание 3\\task3\\task3\\obj\\",
+      "outputPath": "C:\\Users\\dasha\\OneDrive\\Рабочий стол\\задания\\tasks-main\\task3\\task3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

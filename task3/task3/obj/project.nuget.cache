@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hQuuRKLCxHa97s8H5Kk4hLPTuByP5BC2yJ1Vy7+BOeAnG7pKj28FYjr1h5CLkJKbH1Gi4vAk7phft7q3IdM4Tg==",
+  "dgSpecHash": "7t+GmYQ1woHIGIzNSYJRKeiM4R/t6sR1RO+rWogfnqE2lnDX9dPYmtn5auWt+O/zsWf2cd5s60XRhzuc22oWjw==",
   "success": true,
-  "projectFilePath": "C:\\Задание Перфоманс лаб\\задание 3\\task3\\task3\\task3.csproj",
+  "projectFilePath": "C:\\Users\\dasha\\OneDrive\\Рабочий стол\\задания\\tasks-main\\task3\\task3\\task3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dasha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

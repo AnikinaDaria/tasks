@@ -16,3 +16,21 @@ C:\Задание Перфоманс лаб\задание 3\task3\task3\obj\Deb
 C:\Задание Перфоманс лаб\задание 3\task3\task3\obj\Debug\net5.0\ref\task3.dll
 C:\Задание Перфоманс лаб\задание 3\task3\task3\obj\Debug\net5.0\task3.pdb
 C:\Задание Перфоманс лаб\задание 3\task3\task3\obj\Debug\net5.0\task3.genruntimeconfig.cache
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\task3.exe
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\task3.deps.json
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\task3.runtimeconfig.json
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\task3.runtimeconfig.dev.json
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\task3.dll
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\ref\task3.dll
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\task3.pdb
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.csproj.AssemblyReference.cache
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.AssemblyInfoInputs.cache
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.AssemblyInfo.cs
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.csproj.CopyComplete
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.dll
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\ref\task3.dll
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.pdb
+C:\Users\dasha\OneDrive\Рабочий стол\задания\tasks-main\task3\task3\obj\Debug\net5.0\task3.genruntimeconfig.cache
